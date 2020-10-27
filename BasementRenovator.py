@@ -44,6 +44,7 @@ import src.roomconvert as StageConvert
 from src.core import Room as RoomData, Entity as EntityData
 from src.lookup import MainLookup
 import src.anm2 as anm2
+import random
 
 ########################
 #       XML Data       #
