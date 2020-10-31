@@ -2907,7 +2907,7 @@ class RoomSelector(QWidget):
         msgBox.addButton("Yes", QMessageBox.AcceptRole)
         msgBox.addButton("No", QMessageBox.RejectRole)
 	msgBox.addButton("For sure", QMessageBox.AcceptRole)
-	msgBox.addButton("Absolutely not", QMessageBox.RejectRole)
+	msgBox.addButton("Absolutely no", QMessageBox.RejectRole)
         if msgBox.exec_() == QMessageBox.AcceptRole:
 
             self.list.clearSelection()
