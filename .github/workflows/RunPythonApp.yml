@@ -19,4 +19,4 @@ jobs:
     - name: Run with python
       run: |
 #        python BasementRenovator.py
-         py.exe BasementRenovator.py
+         C:\Windows\py.exe BasementRenovator.py
