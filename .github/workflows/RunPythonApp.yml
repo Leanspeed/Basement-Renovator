@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run with python
       run: |
-       .\BasementRenovator.py
+       .\py.exe BasementRenovator.py
