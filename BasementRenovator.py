@@ -2904,7 +2904,7 @@ class RoomSelector(QWidget):
         msgBox = QMessageBox(QMessageBox.Warning,
                 "Delete Room?", "Are you sure you want to delete the selected rooms? This action cannot be undone.",
                 QMessageBox.NoButton, self)
-        msgBox.addButton("Yes", QMessageBox.AcceptRole)
+        msgBox.addButton("Yes, this is fine", QMessageBox.AcceptRole)
         msgBox.addButton("No", QMessageBox.RejectRole)
         if msgBox.exec_() == QMessageBox.AcceptRole:
 
