@@ -4093,9 +4093,9 @@ class MainWindow(QMainWindow):
             app.quit()
 
 
-#####################
-# Slots for Widgets #
-#####################
+###########################
+# Slots for Widget Things #
+###########################
 
     #@pyqtSlot(Room, Room)
     def handleSelectedRoomChanged(self, current, prev):
