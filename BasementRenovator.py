@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-###########################################
+##########################################
 #
 #    Binding of Isaac: Rebirth Stage Editor
 #		by Colin Noga
